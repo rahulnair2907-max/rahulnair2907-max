@@ -1,59 +1,59 @@
 <h1 align="center">Hey, I'm Rahul 👋</h1>
 
 <p align="center">
-  SAP BTP developer from India, building enterprise apps on CAP and HANA, and slowly getting good at machine learning.
+  Pursuing an ePGD in Artificial Intelligence and Data Science at IIT Bombay.<br/>
+  Learning, building, and writing about data science, ML, and AI.
 </p>
 
 ---
 
-## What I do
+## 🎓 Currently studying
 
-I work on enterprise SAP projects, mostly on the SAP Business Technology Platform. Day to day that means building CAP services in Node.js, writing HANA stored procedures, wiring up IBP planning flows, and setting up Work Zone so different user roles land on the right experience. I spend a fair bit of time on the unglamorous but important parts too: XSUAA and IAS access control, HDI container deployments, and Cloud Foundry MTA builds that (eventually) go green.
+**ePGD in Artificial Intelligence and Data Science, IIT Bombay**
 
-On the side, I'm learning data science and ML properly through coursework, and trying to bring some of it back into my SAP work.
+I'm going back to fundamentals and building up from there: statistics, machine learning, and applied AI, with hands-on assignments and projects along the way.
 
-## Tech I use
+## 🧭 My DS, ML & AI journey
+
+**1. Foundations.** Statistics for ML, probability, and learning to read data properly before modeling it. Lots of EDA, and building clean, reusable preprocessing pipelines.
+
+**2. Applied ML.** Supervised and unsupervised learning, feature engineering, model evaluation, and understanding why a model behaves the way it does rather than just chasing a score.
+
+**3. NLP.** Text clustering and embeddings, including a multi-phase pipeline that groups university student session summaries into meaningful themes.
+
+**4. AI and agents.** Experimenting with LLMs, prompt design, and agentic tooling like MCP servers to make my workflow faster and smarter.
+
+**Next up:** deeper into deep learning, LLM applications, and shipping ML projects end to end.
+
+## 🛠️ Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20CAP-0070F2?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20HANA-1A4F8B?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge" />
 </p>
 
-## Things I've been working on
+## 💼 Day job
 
-- Role-based and row-level access on BTP using XSUAA user attributes
-- Persona-based routing in SAP BTP Work Zone
-- HANA stored procedures and CAP services for IBP planning data
-- Debugging HDI deployments, invalidated procedures and views, and dependency upgrades
-- NLP clustering experiments, plus EDA and pipeline work for ML coursework
+SAP BTP developer, building enterprise apps with CAP and HANA. It gives me a steady supply of real-world data problems to apply what I'm learning.
 
-## Currently
-
-- 🌱 Getting deeper into machine learning and statistics
-- 🔧 Playing with Claude and MCP tooling to speed up my dev workflow
-- 💬 Happy to chat about SAP BTP, CAP, HANA, or ML
-
-## GitHub stats
+## 📊 GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+## 📫 Say hi
 
-## Say hi
+Always up for a chat about ML, NLP, AI tooling, or bringing data science into enterprise software.
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://community.sap.com/"><img src="https://img.shields.io/badge/SAP%20Community-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /></a>
 </p>
