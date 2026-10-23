@@ -55,5 +55,5 @@ SAP BTP developer, building enterprise apps with CAP and HANA. It gives me a ste
 Always up for a chat about ML, NLP, AI tooling, or bringing data science into enterprise software.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahul-nair-andhur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
